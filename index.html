@@ -4,21 +4,31 @@
 <head>
     <meta charset="utf-8">
     <title>Styled To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
     <ul class="todo-list">
         <li class="todo-item">
-            <input type="checkbox" id="">Buy groceries</input>
+            <input type="checkbox" id="buy-groceries">
+            <label for="buy-groceries">Buy groceries</label>
+            <ul class="sub-item">
+                <li><a href="#" class="sub-item-link" target="_blank">Fruits</a></li>
+                <li><a href="#" class="sub-item-link" target="_blank">Vegetables</a></li>
+                <li><a href="#" class="sub-item-link" target="_blank">Dairy Products</a></li>
+            </ul>
         </li>
         <li class="todo-item">
-            <input type="checkbox" id="">Walk the dog</input>
+            <input type="checkbox" id="walk-dog">
+            <label for="walk-dog">Walk the dog</label>
         </li>
         <li class="todo-item">
-            <input type="checkbox" id="">Do laundry</input>
+            <input type="checkbox" id="do-laundry">
+            <label for="do-laundry">Do laundry</label>
         </li>
         <li class="todo-item">
-            <input type="checkbox" id="">Prepare dinner</input>
+            <input type="checkbox" id="prepare-dinner">
+            <label for="prepare-dinner">Prepare dinner</label>
         </li>
     </ul>
 
