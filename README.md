@@ -1,6 +1,6 @@
 # To-Do List
 
-A simple, styled to-do list web application built with HTML and CSS.
+A simple, static and styled to-do list web application built with HTML and CSS.
 
 ## Note
 This project was completed as part of freeCodeCamp's [Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/lab-business-card/design-a-business-card), under the CSS section.  
