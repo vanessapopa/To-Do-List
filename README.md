@@ -47,5 +47,4 @@ Project prompt, user stories and design from [freeCodeCamp](https://www.freecode
 
 ## Preview
 
-<img width="844" alt="Screenshot 2025-11-08 at 12 58 34 AM" src="https://github.com/user-attachments/assets/8cbab877-8c0d-4546-bd5a-948548d008e1" />
-
+![To-Do List Screenshot](https://github.com/user-attachments/assets/8cbab877-8c0d-4546-bd5a-948548d008e1)
