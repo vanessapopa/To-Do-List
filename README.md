@@ -3,7 +3,7 @@
 A simple, styled to-do list web application built with HTML and CSS.
 
 ## Note
-This project was completed as part of freeCodeCamp's [Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-introduction-to-javascript-libraries-and-frameworks), under the CSS section.  
+This project was completed as part of freeCodeCamp's [Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/css/), under the CSS section.  
 
 The **Stylized To-Do List** was coded by me, following the user stories and design specifications provided by freeCodeCamp.  
 All HTML and CSS were written from scratch to meet the defined requirements and pass the associated tests.
@@ -24,6 +24,7 @@ This project is a static to-do list that displays tasks with checkboxes and expa
 - Sub-items with clickable links for each task
 - Responsive styling with rounded corners and spacing
 - Custom color scheme with soft green background
+- Changed link colouring after link is visited
 
 ## Installation & Usage
 
