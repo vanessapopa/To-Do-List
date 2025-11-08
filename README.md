@@ -10,7 +10,7 @@ All HTML and CSS were written from scratch to meet the defined requirements and 
 
 ## Description
 
-This project is a static to-do list that displays tasks with checkboxes and expandable sub-items. Each task is contained in a styled box with links to related resources (links not implemented). 
+This project is a static to-do list that displays tasks with checkboxes and expandable sub-items. Each task is contained in a styled box with links to related resources (sample links implemented). 
 
 ## Technologies
 
