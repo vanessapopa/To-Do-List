@@ -3,7 +3,7 @@
 A simple, styled to-do list web application built with HTML and CSS.
 
 ## Note
-This project was completed as part of freeCodeCamp's [Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/css/), under the CSS section.  
+This project was completed as part of freeCodeCamp's [Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/lab-business-card/design-a-business-card), under the CSS section.  
 
 The **Stylized To-Do List** was coded by me, following the user stories and design specifications provided by freeCodeCamp.  
 All HTML and CSS were written from scratch to meet the defined requirements and pass the associated tests.
