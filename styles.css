@@ -3,3 +3,30 @@ h1 {
     font-family: sans-serif, Arial;
     color: #333333;
 }
+
+/* Container for todo list */
+.todo-list {
+    list-style: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Spacing between todo items */
+.todo-item {
+    margin-bottom: 40px;
+    border: 2px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #d6eadd;
+}
+
+/* Spacing between checkbox/label and sub-items */
+.sub-item {
+    margin-top: 10px;
+}
+
+/* Spacing between individual sub-items */
+.sub-item li {
+    margin-bottom: 5px;
+}
