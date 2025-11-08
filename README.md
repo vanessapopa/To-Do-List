@@ -47,4 +47,5 @@ Project prompt, user stories and design from [freeCodeCamp](https://www.freecode
 
 ## Preview
 
-![To-Do List Screenshot](https://github.com/user-attachments/assets/8cbab877-8c0d-4546-bd5a-948548d008e1)
+![To-Do List Screenshot](https://github.com/user-attachments/assets/7dcb1469-d1bf-450f-b672-12235dfffd89)
+
