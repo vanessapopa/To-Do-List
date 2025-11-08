@@ -45,3 +45,7 @@ To view this project locally:
 
 Project prompt, user stories and design from [freeCodeCamp](https://www.freecodecamp.org/). Code written independently.
 
+## Preview
+
+<img width="844" alt="Screenshot 2025-11-08 at 12 58 34 AM" src="https://github.com/user-attachments/assets/8cbab877-8c0d-4546-bd5a-948548d008e1" />
+
